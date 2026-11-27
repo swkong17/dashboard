@@ -1,4 +1,4 @@
-//express module
+//express modulee
 const express = require('express');
 const router = express.Router();
 router.route('/reg/')

@@ -17,3 +17,4 @@ const dbconfig = {
 const compool = mysql.createPool(dbconfig);
 
 module.exports = compool;
+d

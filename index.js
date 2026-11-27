@@ -13,7 +13,7 @@ app.get('/',(req,res)=> {
     res.send('mywebboard');
 });
 
-//뷰 엔진
+//뷰 엔진d
 app.set('view engine','ejs');
 app.set('views',__dirname);
 
